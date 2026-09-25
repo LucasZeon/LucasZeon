@@ -28,6 +28,12 @@ sanitizada de uma ferramenta interna real.
 - Dados 100% sintéticos, testes automatizados, CI, CodeQL e verificação de vazamento
   de dados antes de cada commit.
 
+## 🎓 Trajetória
+
+- **Programa de Bolsas Data & AI — Compass UOL (2024):** trilha de 10 sprints com foco em
+  AWS (S3, Glue, Athena, Lambda, QuickSight), do Linux e SQL até um *data lake* completo.
+  Repositório: [PBCompass](https://github.com/LucasZeon/PBCompass).
+
 ## 📚 Estudando agora
 
 - Ingestão, *data quality* e ETL/ELT.
@@ -69,6 +75,12 @@ person. A sanitized public version of a real internal tool.
   exclusive termination dates and whole months only.
 - Excel report with audit sheets (`Inválidos` and `Debug`).
 - 100% synthetic data, automated tests, CI, CodeQL and a leak check before every commit.
+
+## 🎓 Background
+
+- **Data & AI Scholarship Program — Compass UOL (2024):** 10-sprint track focused on AWS
+  (S3, Glue, Athena, Lambda, QuickSight), from Linux and SQL to a complete data lake.
+  Repository: [PBCompass](https://github.com/LucasZeon/PBCompass).
 
 ## 📚 Currently learning
 
